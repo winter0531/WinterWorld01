@@ -1,0 +1,27 @@
+body {
+  background: #060e1b;
+  overflow: hidden;
+}
+/* canvas {
+  display: block;
+  position: absolute;
+  background: rgb(33, 166, 166);
+  top: 0;
+  left: 0;
+  z-index: 1;
+} */
+/* img {
+  display: none;
+} */
+a {
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(200, 255, 0);
+  position: absolute;
+  bottom: 50%;
+  /* right: %; */
+  width: 100%;
+  text-align: center;
+  z-index: 100;
+  
+}
